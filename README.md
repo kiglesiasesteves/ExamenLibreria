@@ -46,3 +46,10 @@ De tal forma que quede así
 ## Release
 
 Hacemos otra vez los pasos de Creacion de Una Libreria. Y realizaremos un tag en el último commit para poder subir el -jar y tener así una release con el código y poder usarlo como una librería.
+
+# ¿Cómo hariamos si quisieramos que la función Raiz solo calculase las raíces cuadradas por ejemplo?
+
+Primero, tendriamos que cambiar nuestro código de opción ya que tendriamos que hacer que esta función fuese dependiente de la opción que escogiesemos. De forma que en el caso de que alguien escogiera realizar la operación Raiz, solo se pidiese un solo dato. El radicando. Después cambiariamos el código dentro de getRaiz para que la operación que realizase fuera raíz cuadrada de forma que quedase de tal forma:
+
+Math.sqrt(dato1);
+
