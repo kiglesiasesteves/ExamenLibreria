@@ -43,7 +43,7 @@ Ahora tenemos toda la información de los commits hechos en Raiz en solo un comm
 
 De tal forma que quede así 
 
-![Imagen del Diagrama de CLases de nuestro ejercicio creación de una librería](img/Branch e Merge.png)
+![Imagen del Diagrama de CLases de nuestro ejercicio creación de una librería](img/BranchMerge.png)
 
 
 ## Release
