@@ -38,10 +38,6 @@ git --squash Raiz
 
 Ahora tenemos toda la información de los commits hechos en Raiz en solo un commmit. 
 
-De tal forma que quede así 
-
-![Imagen del Diagrama de CLases de nuestro ejercicio creación de una librería](img/BranchMerge.png)
-
 
 ## Release
 
