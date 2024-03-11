@@ -19,9 +19,6 @@ Tras haber creado la libreria de entrada/salida la utilizaremos en nuestro progr
 
 En nuestro caso, en el programa creación de librería usaremos los métodos de Entrada y Salida de la librería en que tengamos estos métodos de forma que los usaremos para mostrar y pedir los datos. 
 
-De forma que nuestro diagrama quedará tal que así: 
-
-![Imagen del Diagrama de CLases de nuestro ejercicio creación de una librería](img/Imagen.png)
 
 ## Crear una nueva rama
 
